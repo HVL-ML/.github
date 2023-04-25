@@ -3,12 +3,12 @@
 The Artificial Intelligence Engineering research group at the [Western Norway University of Applied Sciences](https://hvl.no) explores and harnesses the synergies between machine learning engineering, decision theory, and data science to develop novel solutions to complex problems. 
 
 ## Team
-[Trygve Buanes](https://www.hvl.no/person/?user=Trygve.Buanes)
-[Sathiesh Kaliyugarasan](https://skaliy.no/)
-[Dag Toppe Larsen](https://www.hvl.no/person/?user=Dag.Toppe.Larsen)
-[Alexander Lundervold](https://www.hvl.no/person/?user=Alexander.Selvikvag.Lundervold)
-[PierGianLuca PortaMana](https://www.hvl.no/person/?user=Piero.Giovanni.Luca.Porta-Mana)
-[Therese	Sjursen](https://www.hvl.no/person/?user=Therese.Berge.Sjursen)
+* [Trygve Buanes](https://www.hvl.no/person/?user=Trygve.Buanes)
+* [Sathiesh Kaliyugarasan](https://skaliy.no/)
+* [Dag Toppe Larsen](https://www.hvl.no/person/?user=Dag.Toppe.Larsen)
+* [Alexander Lundervold](https://www.hvl.no/person/?user=Alexander.Selvikvag.Lundervold)
+* [PierGianLuca PortaMana](https://www.hvl.no/person/?user=Piero.Giovanni.Luca.Porta-Mana)
+* [Therese	Sjursen](https://www.hvl.no/person/?user=Therese.Berge.Sjursen)
 
 
 ## Research
