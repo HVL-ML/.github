@@ -1,16 +1,22 @@
-# HVL Machine Learning Engineering
+# HVL Artificial Intelligence Engineering
 
-The GitHub organization for the machine learning engineering group at the [Western Norway University of Applied Sciences](https://hvl.no). 
+The Artificial Intelligence Engineering research group at the [Western Norway University of Applied Sciences](https://hvl.no) explores and harnesses the synergies between machine learning engineering, decision theory, and data science to develop novel solutions to complex problems. 
 
 ## Team
-_TBA_
+[Trygve Buanes](https://www.hvl.no/person/?user=Trygve.Buanes)
+[Sathiesh Kaliyugarasan](https://skaliy.no/)
+[Dag Toppe Larsen](https://www.hvl.no/person/?user=Dag.Toppe.Larsen)
+[Alexander Lundervold](https://www.hvl.no/person/?user=Alexander.Selvikvag.Lundervold)
+[PierGianLuca PortaMana](https://www.hvl.no/person/?user=Piero.Giovanni.Luca.Porta-Mana)
+[Therese	Sjursen](https://www.hvl.no/person/?user=Therese.Berge.Sjursen)
+
 
 ## Research
 _TBA_
 
 ## Teaching
 
-_Details TBA_
+We put a strong emphasis on education and skill development. Through our educational activities, we aim to equip students with foundational understanding, critical and analytic skills, and the ability to apply methods and knowledge across disciplines. 
 
 ### Current and recent courses:
 
