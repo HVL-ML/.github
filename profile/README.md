@@ -22,6 +22,7 @@ We put a strong emphasis on education and skill development. Through our educati
 
 * [DAT158: Machine learning engineering](https://github.com/HVL-ML/DAT158)
 * [DAT255: Deep learning engineering](https://github.com/HVL-ML/DAT255)
+* [ADA511: Data-driven engineering](https://github.com/pglpm/ADA511)
 * [ELMED219: Artificial intelligence and computational medicine](https://github.com/MMIV-ML/ELMED219)
 * [PCS956: Recent trends in applied machine learning](https://github.com/HVL-ML/PCS956)
 * [DAT801: Machine learning for business development](https://github.com/HVL-ML/DAT801)
