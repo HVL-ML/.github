@@ -10,6 +10,7 @@ The Artificial Intelligence Engineering Group at the [Western Norway University 
 * [Alexander Lundervold](https://www.hvl.no/person/?user=Alexander.Selvikvag.Lundervold) ([@alu042](https://github.com/alu042))
 * [PierGianLuca PortaMana](https://www.hvl.no/person/?user=Piero.Giovanni.Luca.Porta-Mana) ([@pglpm](https://github.com/pglpm))
 * [Therese Sjursen](https://www.hvl.no/person/?user=Therese.Berge.Sjursen)
+* [Steffen Mæland](https://www.hvl.no/person/?user=Steffen.Meland) ([@smaeland](https://github.com/smaeland))
 
 
 ## Research
