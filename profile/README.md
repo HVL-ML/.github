@@ -2,6 +2,8 @@
 
 The Artificial Intelligence Engineering Group at the [Western Norway University of Applied Sciences](https://hvl.no) explores and harnesses the synergies between machine learning engineering, decision theory, and data science to develop novel solutions to complex problems. 
 
+![](HVL-AIE.png)
+
 ## Team
 * [Trygve Buanes](https://www.hvl.no/person/?user=Trygve.Buanes)
 * [Sathiesh Kaliyugarasan](https://skaliy.no/) ([@skaliy](https://github.com/skaliy))
