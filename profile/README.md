@@ -7,7 +7,7 @@ The Artificial Intelligence Engineering Group at the [Western Norway University 
 ## Team
 * [Trygve Buanes](https://www.hvl.no/person/?user=Trygve.Buanes)
 * [Sathiesh Kaliyugarasan](https://skaliy.no/) ([@skaliy](https://github.com/skaliy))
-* [Dag Toppe Larsen](https://www.hvl.no/person/?user=Dag.Toppe.Larsen) ([@smaeland](https://github.com/smaeland))
+* [Dag Toppe Larsen](https://www.hvl.no/person/?user=Dag.Toppe.Larsen) ([@dagtl](https://github.com/dagtl))
 * [Emil Tomson Lindfors](https://www.hvl.no/person/?user=Emil.Tomson.Lindfors) ([@EmilLindfors](https://github.com/EmilLindfors))
 * [Alexander Lundervold](https://www.hvl.no/person/?user=Alexander.Selvikvag.Lundervold) ([@alu042](https://github.com/alu042))
 * [PierGianLuca PortaMana](https://www.hvl.no/person/?user=Piero.Giovanni.Luca.Porta-Mana) ([@pglpm](https://github.com/pglpm))
